@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+mlruns/
+mlartifacts/
+mlflow.db
+predicciones.png
+~$*.docx
